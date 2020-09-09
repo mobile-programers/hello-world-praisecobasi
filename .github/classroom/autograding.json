@@ -3,7 +3,7 @@
     {
       "name": "Hello world",
       "setup": "",
-      "run": "make test",
+      "run": "submit mobile",
       "input": "",
       "output": "",
       "comparison": "included",
