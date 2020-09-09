@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Hello world",
+      "name": "Hello",
       "setup": "",
-      "run": "make test",
+      "run": "make hello",
       "input": "",
       "output": "",
       "comparison": "included",
